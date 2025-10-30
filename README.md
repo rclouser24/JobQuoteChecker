@@ -1,6 +1,6 @@
 # Home Repair Quote Analyzer
 
-A web application that analyzes home repair and remodeling quotes by comparing them against market averages and adjusting for your location. Upload a picture of your quote and get instant feedback on whether you're getting a fair deal!
+A web cool application that analyzes home repair and remodeling quotes by comparing them against market averages and adjusting for your location. Upload a picture of your quote and get instant feedback on whether you're getting a fair deal!
 
 ## Features
 
